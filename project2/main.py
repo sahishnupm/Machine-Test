@@ -69,3 +69,6 @@ def getMarks(roll_no : int):
         })
 
     return res
+
+
+# to run :  uvicorn main:app --reload
